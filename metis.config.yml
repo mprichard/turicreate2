@@ -1,0 +1,7 @@
+project_token: 5c73c1f785ab5217836c2c52
+name: turicreate2
+jobs: 
+  - job_id: 6c72086f-a7c4-4467-b499-271adf11f9dc
+    language: python
+    name: Main
+    entrypoint: "main.py"
